@@ -11,7 +11,7 @@ Dear users! Here you can download OceanCalc for all popular opearation systems:
 ## Windows app:
 Just download it and run as a usual windows executable file.
 ## Linux app:
-Program for linux can be executed form linux terminal. Open terminal, go to the folder stored calculator file and type *./OceanCalc_v1.0.0*. 
+Program for linux can be executed from the linux terminal. Open terminal, go to the folder stored calculator file and type *./OceanCalc_v1.0.0*. 
 ## MacOS app:
 Mac application shows like a folder here. So you need to download a folder called OceanCalc_v1.0.0.app and execute it on your Mac like a normal MacOS application. On old Macs execution may take 15-30 seconds.
 
