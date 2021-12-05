@@ -1,0 +1,3 @@
+# Calculated potential temperature, deg.C
+9.9913 19.9797 29.9681
+-0.9978 -1.9988 -3.0001

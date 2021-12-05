@@ -1,0 +1,3 @@
+# Calculated in-situ temperature, deg.C
+10.0087 20.0203 30.0319
+-1.0022 -2.0012 -2.9999
